@@ -1,4 +1,13 @@
-### Hi there 👋
+# 🤟 YOLO 🤟
+
+## Hi! I'm asakatsu
+
+## Favorite
+
+* Drowing 🎨
+* Camera 📸
+* Surfing 🏄‍♂️
+* Training 💪
 
 <!--
 **asakatsu0402/asakatsu0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
