@@ -1,8 +1,6 @@
-# 🤟 YOLO 🤟
+# 🤟 YOLO 🤟 I'm asakatsu
 
-## Hi! I'm asakatsu
-
-## Favorite
+## My Favorite
 
 * Drowing 🎨
 * Camera 📸
