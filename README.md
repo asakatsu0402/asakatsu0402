@@ -10,12 +10,14 @@
 
 ### 🔋 Status
 
-<a href="https://github.com/asakatsu0402/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asakatsu0402&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/asakatsu0402/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakatsu0402&theme=radical" />
-</a>
+<div>
+  <a href="https://github.com/asakatsu0402/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=asakatsu0402&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/asakatsu0402/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakatsu0402&theme=radical" />
+  </a>
+</div>
 
 <div>
   <a href="https://github.com/asakatsu0402/">
