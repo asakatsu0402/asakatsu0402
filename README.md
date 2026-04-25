@@ -1,7 +1,6 @@
- <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=🤟 YOLO 🤟 I'm asakatsu
-;Building+Tools+That+Save+Time" alt="Typing SVG" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C30927&background=5577FF00&width=435&lines=%F0%9F%A4%9F+YOLO+%F0%9F%A4%9F+I'm+asakatsu" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,12 +11,14 @@
 ### 🔋 Status
 
 <a href="https://github.com/asakatsu0402/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asakatsu0402&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asakatsu0402&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/asakatsu0402/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakatsu0402&theme=radical" />
 </a>
 
-<a href="https://github.com/asakatsu0402/">
-  <img src="https://komarev.com/ghpvc/?username=asakatsu0402" alt="asakatsu0402" />
-</a>
+<div>
+  <a href="https://github.com/asakatsu0402/">
+    <img src="https://komarev.com/ghpvc/?username=asakatsu0402" alt="asakatsu0402" />
+  </a>
+</div>
