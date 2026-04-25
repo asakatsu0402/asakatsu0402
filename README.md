@@ -12,10 +12,11 @@
 
 <div>
   <a href="https://github.com/asakatsu0402/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=asakatsu0402&show_icons=true&theme=radical" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=asakatsu0402&show_icons=true&count_private=true&theme=radical" />
   </a>
   <a href="https://github.com/asakatsu0402/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asakatsu0402&theme=radical" />
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asakatsu0402&theme=radical&hide_border=true&no-bg=true&langs_count=10"/>
   </a>
 </div>
 
